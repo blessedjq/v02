@@ -1,0 +1,20 @@
+.maincont{
+    
+    height: 100%;
+    width: 100%;
+    
+}
+
+table{
+    width:100%;
+}
+.down{
+    background-image: url("mountain.png");
+    height:50%;
+}
+body{
+    background-color:#96F2F6;
+}
+.up{
+    height:50%;
+}
